@@ -22,3 +22,4 @@ app.listen(PORT, function () {
 	console.log("Simple static server showing %s listening at http://%s:%s",
 		PUBLIC_DIR, HOSTNAME, PORT);
 });
+//qwertyuiop[]
